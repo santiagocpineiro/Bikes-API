@@ -1,0 +1,6 @@
+{
+    "MONGO_URI": "mongodb+srv://username:password@cluster0.example.mongodb.net/bikes?tls=true&tlsAllowInvalidHostnames=true",
+    "DATABASE_NAME": "bikes",
+    "COLLECTION_NAME": "biciscorunha"
+}
+
